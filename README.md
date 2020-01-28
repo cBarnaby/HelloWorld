@@ -1,2 +1,2 @@
 # HelloWorld
-# Just helloWorld command in c++ and python
+# Just the helloWorld program in c++ and python
